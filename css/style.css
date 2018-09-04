@@ -1,0 +1,25 @@
+.turnInfo{
+    text-align:center;
+    font-size:40px;
+    font-weight:bold;
+    margin-top: 6%;
+    margin-bottom:10px;
+}
+.container{     /*some css*/
+    border: none;
+    width: 415px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.container div{
+    float: left;
+    height: 102px;
+    width: 131.3px;
+    border: 1px solid black;
+    text-align:center;
+    padding-top:30px;
+    font-size:50px;
+    background-color: #29335C;
+    color: #fff;
+}
